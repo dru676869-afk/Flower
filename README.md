@@ -1,8 +1,4 @@
-<div align="center">
 
-![LeviLauncher Logo](https://avatars.githubusercontent.com/u/78095377?s=200&v=4)
-
-</div>
 
 ---
 
